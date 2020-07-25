@@ -1,0 +1,18 @@
+Assignment #1:
+
+Start with start.py in session_01/case
+
+1. Optimize the code if possible
+2. Complete the write2file()
+
+Assignment #2:
+
+1. Redo the entire case in session_01/case using the csv module
+2. Use the json module to create the student report in json format
+
+
+Assignment #3:
+
+1. Using the experiments in the transcript for OS and SHUTIL module
+   create a reusable script to move files to respective folders
+   Test: run this script in any directory of your choice, it should re-organize your directory
